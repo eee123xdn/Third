@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/game1.jpg</file>
+        <file>res/game2.jpg</file>
+        <file>res/game3.jpg</file>
+        <file>res/startgame.jpg</file>
+        <file>res/startbtn/btn_start_off.png</file>
+        <file>res/startbtn/btn_start_over.png</file>
+        <file>res/startbtn/btn_end_off.png</file>
+        <file>res/startbtn/btn_end_over.png</file>
+        <file>res/startbtn/btn_load_off.png</file>
+        <file>res/startbtn/btn_load_over.png</file>
+        <file>res/startbtn/banzi.png</file>
+        <file>res/back_01.png</file>
+        <file>res/startbtn/btn_b_over.png</file>
+        <file>res/startbtn/btn_b_over_2.png</file>
+        <file>res/mes_window.png</file>
+        <file>res/mes_window_m.png</file>
+    </qresource>
+</RCC>
